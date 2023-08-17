@@ -1,0 +1,11 @@
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\bin\Debug\HOT-2ShirtDiscountGUI.exe.config
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\bin\Debug\HOT-2ShirtDiscountGUI.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\bin\Debug\HOT-2ShirtDiscountGUI.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\obj\Debug\HOT-2ShirtDiscountGUI.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\obj\Debug\HOT-2ShirtDiscountGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\obj\Debug\HOT_2ShirtDiscountGUI.frmShirtDiscountGUI.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\obj\Debug\HOT_2ShirtDiscountGUI.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\obj\Debug\HOT-2ShirtDiscountGUI.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\obj\Debug\HOT-2ShirtDiscountGUI.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\obj\Debug\HOT-2ShirtDiscountGUI.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT-2ShirtDiscountGUI\obj\Debug\HOT-2ShirtDiscountGUI.pdb

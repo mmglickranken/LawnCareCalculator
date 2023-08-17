@@ -1,0 +1,8 @@
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeConsole\bin\Debug\HOT2-GPA2LetterGradeConsole.exe.config
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeConsole\bin\Debug\HOT2-GPA2LetterGradeConsole.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeConsole\bin\Debug\HOT2-GPA2LetterGradeConsole.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeConsole\obj\Debug\HOT2-GPA2LetterGradeConsole.pdb

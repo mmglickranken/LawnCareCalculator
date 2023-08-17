@@ -1,0 +1,11 @@
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\bin\Debug\HOT2-GPA2LetterGradeGUI.exe.config
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\bin\Debug\HOT2-GPA2LetterGradeGUI.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\bin\Debug\HOT2-GPA2LetterGradeGUI.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2_GPA2LetterGradeGUI.frmLetterGradesGUI.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2_GPA2LetterGradeGUI.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-GPA2LetterGradeGUI\obj\Debug\HOT2-GPA2LetterGradeGUI.pdb

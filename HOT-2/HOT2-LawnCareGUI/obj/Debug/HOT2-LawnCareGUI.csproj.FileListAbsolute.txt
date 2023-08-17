@@ -1,0 +1,11 @@
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\bin\Debug\HOT2-LawnCareGUI.exe.config
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\bin\Debug\HOT2-LawnCareGUI.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\bin\Debug\HOT2-LawnCareGUI.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\obj\Debug\HOT2_LawnCareGUI.frmLawncareGUI.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\obj\Debug\HOT2_LawnCareGUI.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-HOTs\HOT-2\HOT2-LawnCareGUI\obj\Debug\HOT2-LawnCareGUI.pdb
